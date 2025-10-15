@@ -6,7 +6,7 @@
       <img 
         src="/IMG_1396.gif" 
         alt="Animation 1" 
-        class="w-96 h-64 mb-6 rounded-xl shadow-lg object-cover"
+        class="w-94 h-64 mb-6 rounded-xl shadow-lg object-cover"
       />
 
       <h1 class="text-2xl font-extrabold mb-4 animate-pulse">

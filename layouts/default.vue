@@ -98,7 +98,7 @@
     </header>
 
    
-    <main class="flex-grow flex items-center justify-centre p-6 bg-white h-screen">
+    <main class="flex-grow flex items-center justify-center p-6 bg-white h-screen">
       <slot />
     </main>
 
